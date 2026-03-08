@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#       40 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀   76.74 %
-Binary   12 mins               ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
